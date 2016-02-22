@@ -1,6 +1,6 @@
-# vue-browserify-boilerplate
+# vue-cli-router-template
 
-> A full-featured Browserify + `vueify` setup with hot-reload, linting & unit testing.
+> A full-featured Browserify + `vueify` setup with vue-router, hot-reload, linting & unit testing.
 
 ### Usage
 
@@ -8,7 +8,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init browserify my-project
+$ vue init crswll/vue-cli-router-template my-project
 $ cd my-project
 $ npm install
 $ npm run dev
