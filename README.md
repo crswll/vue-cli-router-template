@@ -1,3 +1,4 @@
+# DEPRECATED: This is pretty outdated. I'd start elsewhere.
 # vue-cli-router-template
 
 > A full-featured Browserify + `vueify` setup with vue-router, hot-reload, linting & unit testing.
